@@ -1,6 +1,4 @@
-### Hi there 👋
-
-𝐀𝐬 𝐀 𝐓𝐨𝐩-𝐧𝐨𝐭𝐜𝐡 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with over ten years, my expertise spans both front-end and back-end development, offering a comprehensive range of skills in creating web and mobile applications. I create complete web and mobile applications using modern frameworks like Python, React, React Native, Angular, and Node.js. My journey in tech now embraces the transformative 𝐩𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐈, seeking to integrate 𝐀𝐈 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 into solutions that are not only innovative but also accessible and user-centric.
+Corey Campbell, a𝐬 𝐀 𝐓𝐨𝐩-𝐧𝐨𝐭𝐜𝐡 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with over ten years, my expertise spans both front-end and back-end development, offering a comprehensive range of skills in creating web and mobile applications. I create complete web and mobile applications using modern frameworks like Python, React, React Native, Angular, and Node.js. My journey in tech now embraces the transformative 𝐩𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐈, seeking to integrate 𝐀𝐈 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 into solutions that are not only innovative but also accessible and user-centric.
 
 𝐌𝐲 𝐜𝐨𝐫𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 - Python, Django, Flask, Django Rest Framework, FastAPI, SQLAlchemy, Celery
@@ -24,7 +22,7 @@
 
 ===== 𝐀𝐈 =====
 
-𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 - 𝐡𝐭𝐭𝐩𝐬://𝐝𝐨𝐨𝐳𝐨𝐨.𝐥𝐢𝐯𝐞/ - is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility. 
+𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility. 𝐡𝐭𝐭𝐩𝐬://𝐝𝐨𝐨𝐳𝐨𝐨.𝐥𝐢𝐯𝐞/
 
 - Developed a admin interface
 - Built a client-facing panel for server-side rendering and SEO optimization
