@@ -22,7 +22,7 @@ Corey Campbell, a𝐬 𝐀 𝐓𝐨𝐩-𝐧𝐨𝐭𝐜𝐡 𝐒𝐨𝐟𝐭�
 
 ===== 𝐀𝐈 =====
 
-𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility. 𝐡𝐭𝐭𝐩𝐬://𝐝𝐨𝐨𝐳𝐨𝐨.𝐥𝐢𝐯𝐞/
+𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility. https://doozoo.live/
 
 - Developed a admin interface
 - Built a client-facing panel for server-side rendering and SEO optimization
