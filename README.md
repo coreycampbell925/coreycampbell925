@@ -22,7 +22,7 @@ Corey Campbell, a𝐬 𝐀 𝐓𝐨𝐩-𝐧𝐨𝐭𝐜𝐡 𝐒𝐨𝐟𝐭�
 
 ===== 𝐀𝐈 =====
 
-𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility. https://doozoo.live/
+𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility - https://doozoo.live/
 
 - Developed a admin interface
 - Built a client-facing panel for server-side rendering and SEO optimization
@@ -41,7 +41,8 @@ How Doozoo AI Chat works
   
 ===== 𝐑𝐞𝐚𝐜𝐭 =====
 
-𝟏. 𝐁𝐨𝐚𝐭𝐮𝐫𝐮 - 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐛𝐨𝐚𝐭𝐮𝐫𝐮.𝐜𝐨𝐦/ - a pioneering platform for boat rentals, I was instrumental in developing key functionalities that greatly enhanced user experience and operational efficiency.
+𝟏. 𝐁𝐨𝐚𝐭𝐮𝐫𝐮 is a pioneering platform for boat rentals, I was instrumental in developing key functionalities that greatly enhanced user experience and operational efficiency - https://www.boaturu.com/
+
 - Developed an interactive boat rental scheduling system using FullCalendar, JavaScript, and PostgreSQL.
 - Streamlined payment processing with Stripe integration
 - Built a real-time marina admin dashboard using WebSocket
@@ -49,7 +50,7 @@ How Doozoo AI Chat works
 - Enhanced the platform with dynamic boat profiles, user reviews, and geolocation features, and more.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨 𝙄 𝙪𝙨𝙚𝙙: 𝙍𝙚𝙖𝙘𝙩, 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙 𝘾𝙎𝙎, 𝙃𝙏𝙈𝙇5, 𝘾𝙎𝙎 3, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙂𝙤𝙤𝙜𝙡𝙚 𝙈𝙖𝙥𝙨 𝘼𝙋𝙄, 𝙅𝙚𝙨𝙩, 𝘾𝙮𝙥𝙧𝙚𝙨𝙨, 𝙒𝙚𝙗𝙥𝙖𝙘𝙠, 𝙎𝙩𝙧𝙞𝙥𝙚, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙎𝙚𝙣𝙙𝙂𝙧𝙞𝙙
 
-𝟐. 𝐑𝐞𝐬𝐜𝐮𝐞𝐬𝐩𝐨𝐭 - 𝐡𝐭𝐭𝐩𝐬://𝐫𝐞𝐬𝐜𝐮𝐞-𝐬𝐩𝐨𝐭.𝐜𝐨𝐦/ - a comprehensive web app for pet adoption, I played a key role in connecting animal lovers with shelters
+𝟐. 𝐑𝐞𝐬𝐜𝐮𝐞𝐬𝐩𝐨𝐭 is a comprehensive web app for pet adoption, I played a key role in connecting animal lovers with shelters - https://rescue-spot.com/
 
 - Crafted dynamic pages for easy pet discovery, integrated with Google Maps API for location-based search.
 - Designed seamless adoption forms and managed secure data processing with PostgreSQL.
@@ -61,7 +62,7 @@ How Doozoo AI Chat works
 
 ===== 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 =====
 
-𝟏. 𝐓𝐮𝐒𝐢𝐦𝐩𝐥𝐞 - 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐭𝐮𝐬𝐢𝐦𝐩𝐥𝐞.𝐜𝐨𝐦/ - au autonomous driving technology company, I played a crucial role in developing the frontend architecture and features for their web applications.
+𝟏. 𝐓𝐮𝐒𝐢𝐦𝐩𝐥𝐞 is au autonomous driving technology company, I played a crucial role in developing the frontend architecture and features for their web applications - https://www.tusimple.com/
 
 - Developed frontend architecture for an autonomous driving technology company
 - Created feature-specific modules (OversightModule, GroundCrewModule, AdminModule) to streamline components  and services.
@@ -69,7 +70,7 @@ How Doozoo AI Chat works
 - Built dynamic forms for efficient fleet and administrative management.
 - Developed a multilingual interface and innovated in visualizing camera and LiDAR data.
 
-𝟐. 𝐒𝐨𝐜𝐢𝐚𝐥 𝐂𝐮𝐫𝐚𝐭𝐨𝐫- 𝐡𝐭𝐭𝐩𝐬://𝐧𝐞𝐰.𝐬𝐨𝐜𝐢𝐚𝐥𝐜𝐮𝐫𝐚𝐭𝐨𝐫.𝐜𝐨𝐦 - a platform designed to streamline social media content creation, I was responsible for migrating and enhancing their dashboard from WordPress to Angular. My work significantly accelerated the platform's feature scalability and user experience.
+𝟐. 𝐒𝐨𝐜𝐢𝐚𝐥 𝐂𝐮𝐫𝐚𝐭𝐨𝐫 is a platform designed to streamline social media content creation, I was responsible for migrating and enhancing their dashboard from WordPress to Angular. My work significantly accelerated the platform's feature scalability and user experience - https://new.socialcurator.com 
 
 - Led the migration and enhancement of a social medial content creation platform from WordPress to Angular.
 - Developed components for caption templates and photo galleries, integrating Firebase for data management.
@@ -81,6 +82,7 @@ How Doozoo AI Chat works
 𝟏. 𝐒𝐨𝐛𝐞𝐫𝐁𝐮𝐝𝐝𝐲, 𝐚 𝐦𝐨𝐛𝐢𝐥𝐞 𝐚𝐩𝐩 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥𝐬 𝐢𝐧 𝐚𝐝𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐫𝐞𝐜𝐨𝐯𝐞𝐫𝐲
 
 https://apps.apple.com/us/app/soberbuddy-addiction-recovery/id1513623844
+
 https://play.google.com/store/apps/details?id=com.soberbuddy.app&hl=en&gl=US
 
 - Implemented a variety of features including Sober Time Tracker, Challenge System, and a Journaling Feature, utilizing JavaScript and React Native for a seamless user experience.
@@ -157,7 +159,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 
 ===== 𝐏𝐲𝐭𝐡𝐨𝐧/𝐅𝐥𝐚𝐬𝐤 =====
 
-𝟏. 𝐇𝐞𝐚𝐫𝐭𝐲𝐲 𝐟𝐫𝐞𝐬𝐡, 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐡𝐞𝐚𝐫𝐭𝐲𝐲𝐟𝐫𝐞𝐬𝐡.𝐜𝐨𝐦/, is the largest online supermarket for Indian groceries in the US. I sculpted a comprehensive online platform that would help them deliver all the grocery goodness.
+𝟏. 𝐇𝐞𝐚𝐫𝐭𝐲𝐲 𝐟𝐫𝐞𝐬𝐡 is the largest online supermarket for Indian groceries in the US. I sculpted a comprehensive online platform that would help them deliver all the grocery goodness - https://www.heartyyfresh.com/
 
 - Developed a comprehensive online platform for the US's largest Indian grocery store.
 - Implemented user authentication and authorization using JWT and OAuth for secure sign-up and login processes.
@@ -168,7 +170,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 - Implemented notification and alert systems using Firebase Cloud Messaging and Twilio for real-time updates.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨 𝙄 𝙪𝙨𝙚𝙙: 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙁𝙡𝙖𝙨𝙠, 𝙌𝙪𝙞𝙘𝙠𝙗𝙤𝙤𝙠𝙨, 𝙊𝙥𝙩𝙞𝙢𝙤 𝙍𝙤𝙪𝙩𝙚, 𝙏𝙬𝙞𝙡𝙞𝙤, 𝙎𝙚𝙣𝙙𝙄𝙣𝘽𝙡𝙪𝙚, 𝙎𝙩𝙧𝙞𝙥𝙚, 𝘼𝙡𝙜𝙤𝙡𝙞𝙖, 𝙁𝙞𝙧𝙚𝙗𝙖𝙨𝙚, 𝘼𝙒𝙎, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙍𝙚𝙙𝙞𝙨, 𝙍𝙖𝙗𝙗𝙞𝙩𝙈𝙌, 𝙁𝙞𝙧𝙚𝙗𝙖𝙨𝙚 𝘾𝙡𝙤𝙪𝙙 𝙈𝙚𝙨𝙨𝙖𝙜𝙞𝙣𝙜, 𝙀𝙡𝙖𝙨𝙩𝙞𝙘𝙨𝙚𝙖𝙧𝙘𝙝, 𝘿𝙤𝙘𝙠𝙚𝙧, 𝙅𝙚𝙣𝙠𝙞𝙣𝙨, 𝘼𝙒𝙎 𝙇𝙖𝙢𝙗𝙙𝙖
 
-𝟐. 𝐖𝐚𝐧𝐝𝐞𝐫𝐯𝐚𝐧𝐬, 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐰𝐚𝐧𝐝𝐞𝐫𝐯𝐚𝐧𝐬.𝐜𝐨𝐦/, is a van booking site that I have developed with team members.
+𝟐. 𝐖𝐚𝐧𝐝𝐞𝐫𝐯𝐚𝐧𝐬 is a van booking site that I have developed with team members - https://www.wandervans.com/
 
 - Developed a van booking website, focusing on backend functionalities.
 - Created RESTful APIs for van management and bookings, integrating SQLAlchemy with Flask.
@@ -180,7 +182,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 
 ===== 𝐏𝐲𝐭𝐡𝐨𝐧/𝐃𝐣𝐚𝐧𝐠𝐨/𝐑𝐞𝐚𝐜𝐭 =====
 
-𝟏. 𝐓𝐚𝐥𝐤𝐂𝐨𝐧𝐝𝐨, 𝐡𝐭𝐭𝐩://𝐭𝐚𝐥𝐤𝐜𝐨𝐧𝐝𝐨.𝐜𝐨𝐦, 𝐚 𝐫𝐞𝐚𝐥 𝐞𝐬𝐭𝐚𝐭𝐞 𝐦𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞
+𝟏. 𝐓𝐚𝐥𝐤𝐂𝐨𝐧𝐝𝐨 𝐢𝐬 𝐚 𝐫𝐞𝐚𝐥 𝐞𝐬𝐭𝐚𝐭𝐞 𝐦𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞 - http://talkcondo.com
 
 - Spearheaded the development of a platform aggregation data on new condominium developments, akin to Redfin or Zillow.
 - Developed an automated system for efficient data management and integration, streamlining daily updates and information imports.
@@ -189,7 +191,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 - Managed subscription payments and access control, integrating Stripe for payment processing and Auth0 for secure user authentication.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨 𝙄 𝙪𝙨𝙚𝙙: 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝙎𝙌𝙇, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘿𝙟𝙖𝙣𝙜𝙤, 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝙁𝙪𝙣𝙘𝙩𝙞𝙤𝙣𝙨, 𝙍𝙚𝙖𝙘𝙩, 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙃𝙏𝙈𝙇5, 𝘾𝙎𝙎3, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙂𝙤𝙤𝙜𝙡𝙚 𝙈𝙖𝙥𝙨 𝘼𝙋𝙄, 𝙂𝙚𝙤𝙨𝙥𝙖𝙩𝙞𝙖𝙡 𝘿𝙖𝙩𝙖 𝙎𝙮𝙨𝙩𝙚𝙢𝙨, 𝙂𝙤𝙤𝙜𝙡𝙚 𝙎𝙝𝙚𝙚𝙩𝙨 𝘼𝙋𝙄, 𝘼𝙥𝙖𝙘𝙝 𝙋𝘿𝙁𝘽𝙤𝙭, 𝙋𝙄𝙇, 𝙎𝙩𝙧𝙞𝙥𝙚, 𝘼𝙪𝙩𝙝0, 𝘼𝙒𝙎
 
-𝟐. 𝐒𝐡𝐚𝐫𝐞𝐟𝐫𝐨𝐧𝐭, 𝐡𝐭𝐭𝐩𝐬://𝐭𝐡𝐞𝐬𝐡𝐚𝐫𝐞𝐟𝐫𝐨𝐧𝐭.𝐜𝐨𝐦/, 𝐚 𝐜𝐨-𝐫𝐞𝐭𝐚𝐢𝐥𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦
+𝟐. 𝐒𝐡𝐚𝐫𝐞𝐟𝐫𝐨𝐧𝐭 𝐢𝐬 𝐚 𝐜𝐨-𝐫𝐞𝐭𝐚𝐢𝐥𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 - https://thesharefront.com/
 
 - Played a pivotal role in launching the online platform, focusing on user flow to optimize conversion rates.
 - Implemented engaging video and animation content to clearly communicate the business model and enrollment process.
@@ -201,7 +203,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 
 ===== 𝐏𝐲𝐭𝐡𝐨𝐧/𝐃𝐣𝐚𝐧𝐠𝐨/𝐀𝐧𝐠𝐮𝐥𝐚𝐫 =====
 
-𝟏. 𝐃𝐞𝐧𝐝𝐫𝐢, 𝐡𝐭𝐭𝐩𝐬://𝐝𝐞𝐧𝐝𝐫𝐢.𝐜𝐨𝐦/, 𝐚 𝐒𝐚𝐚𝐒 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐟𝐨𝐫 𝐥𝐚𝐰 𝐟𝐢𝐫𝐦𝐬:
+𝟏. 𝐃𝐞𝐧𝐝𝐫𝐢 𝐢𝐬 𝐚 𝐒𝐚𝐚𝐒 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐟𝐨𝐫 𝐥𝐚𝐰 𝐟𝐢𝐫𝐦 - https://dendri.com/
 
 - Lead the development of a comprehensive case management system, focusing on centralizing case-related information and integrating agile project management methodologies.
 - Developed a robust document management and automation system, incorporating cloud storage and Python scripts for document handling.
@@ -210,7 +212,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 - Created a detailed analytics and reporting dashboard, providing law firms with valuable insights into their operations.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨 𝙄 𝙪𝙨𝙚𝙙: 𝙂𝙧𝙖𝙥𝙝𝙌𝙇, 𝘿𝙤𝙘𝙠𝙚𝙧, 𝙏𝙚𝙧𝙧𝙖𝙛𝙤𝙧𝙢, 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨, 𝙀𝙡𝙖𝙨𝙩𝙞𝙘𝙎𝙚𝙖𝙧𝙘𝙝, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘿𝙟𝙖𝙣𝙜𝙤, 𝘼𝙣𝙜𝙪𝙡𝙖𝙧, 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩, 𝙃𝙏𝙈𝙇5, 𝘾𝙎𝙎3, 𝙆𝙚𝙣𝙙𝙤 𝙐𝙄, 𝙊𝘼𝙪𝙩𝙝, 𝘼𝙒𝙎, 𝙒𝙚𝙗𝙎𝙤𝙘𝙠𝙚𝙩
 
-𝟐. 𝐇𝐞𝐚𝐥𝐭𝐡𝐩𝐨𝐝, 𝐡𝐭𝐭𝐩𝐬://𝐚𝐩𝐩.𝐡𝐞𝐚𝐥𝐭𝐡𝐩𝐨𝐝.𝐜𝐨/, 𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐭𝐨𝐨𝐥 𝐟𝐨𝐫 𝐅𝐐𝐇𝐂 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬
+𝟐. 𝐇𝐞𝐚𝐥𝐭𝐡𝐩𝐨𝐝 𝐢𝐬 𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐭𝐨𝐨𝐥 𝐟𝐨𝐫 𝐅𝐐𝐇𝐂 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬 - https://app.healthpod.co/
 
 - Developed a user interface with sidebar navigation using Angular, creating a structured, component-based layout.
 - implemented a forum section with RESTful API endpoints for CRUD operations on posts using Python and Flask.
@@ -221,7 +223,7 @@ https://play.google.com/store/apps/details?id=com.app.bloss
 
 ===== 𝐏𝐲𝐭𝐡𝐨𝐧/𝐅𝐥𝐚𝐬𝐤/𝐑𝐞𝐚𝐜𝐭 =====
 
-𝟏. 𝐐𝐮𝐢𝐤 𝐀𝐮𝐭𝐨, 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐪𝐮𝐢𝐤.𝐚𝐮𝐭𝐨, 𝐚 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐒𝐚𝐚𝐒 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐜𝐚𝐫𝐞 𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡𝐢𝐩𝐬
+𝟏. 𝐐𝐮𝐢𝐤 𝐀𝐮𝐭𝐨 𝐢𝐬 𝐚 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐒𝐚𝐚𝐒 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐜𝐚𝐫𝐞 𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡𝐢𝐩𝐬 - https://www.quik.auto
 
 - Led the design system creation, establishing a cohesive set of guidelines and UI components, ensuring consistency and intuitive user experience.
 - Developed a Reat.js and Next.js-based desktop application, focusing on server-side rendering for improved SEO and performance.
@@ -233,7 +235,7 @@ Key Features I Implemented.
 - Real-Time Reporting: Built a real-time analytics dashboard, leveraging Firebase for performance tracking.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨 𝙄 𝙪𝙨𝙚𝙙: 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨, 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙁𝙞𝙧𝙚𝙗𝙖𝙨𝙚, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, 𝙃𝙏𝙈𝙇5, 𝘾𝙎𝙎3, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙁𝙡𝙖𝙨𝙠
 
-𝟐. 𝐉𝐨𝐦𝐛𝐢𝐧𝐞, 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐣𝐨𝐦𝐛𝐢𝐧𝐞.𝐜𝐨𝐦, 𝐚 𝐫𝐞𝐜𝐫𝐮𝐢𝐭𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐟𝐨𝐫 𝐬𝐚𝐥𝐞𝐬 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬
+𝟐. 𝐉𝐨𝐦𝐛𝐢𝐧𝐞 𝐢𝐬 𝐚 𝐫𝐞𝐜𝐫𝐮𝐢𝐭𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐟𝐨𝐫 𝐬𝐚𝐥𝐞𝐬 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬 - https://www.jombine.com
 
 - Managed the entire design and development process, from initial concept to launching an MVP.
 - Collaborated closely with the Jombine team, ensuring the platform aligns with their vision and objectives.
@@ -242,7 +244,7 @@ Key Features I Implemented.
 
 ===== 𝐏𝐲𝐭𝐡𝐨𝐧/𝐅𝐥𝐚𝐬𝐤/𝐀𝐧𝐠𝐮𝐥𝐚𝐫 =====
 
-𝟏. 𝐓𝐢𝐩𝐬𝐲 𝐄𝐥𝐯𝐞𝐬, 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐭𝐢𝐩𝐬𝐲𝐞𝐥𝐯𝐞𝐬.𝐜𝐨𝐦/, 𝐚 𝐡𝐨𝐥𝐢𝐝𝐚𝐲-𝐭𝐡𝐞𝐦𝐞𝐝 𝐚𝐩𝐩𝐚𝐫𝐞𝐥 𝐜𝐨𝐦𝐩𝐚𝐧𝐲.
+𝟏. 𝐓𝐢𝐩𝐬𝐲 𝐄𝐥𝐯𝐞𝐬 𝐢𝐬 𝐚 𝐡𝐨𝐥𝐢𝐝𝐚𝐲-𝐭𝐡𝐞𝐦𝐞𝐝 𝐚𝐩𝐩𝐚𝐫𝐞𝐥 𝐜𝐨𝐦𝐩𝐚𝐧𝐲 - 
 
 - Spearheaded the creation of a dynamic product catalog, utilizing Angular and TypeScript for a responsive and interactive user interface.
 - Developed key frontend features such as authentication, shopping cart, and checkout process, ensuring a seamless shopping experience.
@@ -250,7 +252,7 @@ Key Features I Implemented.
 - Crafted a user review and rating system, increasing customer engagement and feedbacks.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨 𝙄 𝙪𝙨𝙚𝙙: 𝘼𝙣𝙜𝙪𝙡𝙖𝙧, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙨𝙩𝙮𝙡𝙚𝙙-𝙘𝙤𝙢𝙥𝙤𝙣𝙚𝙣𝙩𝙨, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙁𝙡𝙖𝙨𝙠, 𝙎𝙌𝙇𝘼𝙡𝙘𝙝𝙚𝙢𝙮, 𝘾𝙚𝙡𝙚𝙧𝙮, 𝙍𝙚𝙙𝙞𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙎𝙩𝙧𝙞𝙥𝙚, 𝙚𝘾𝙤𝙢𝙢𝙚𝙧𝙘𝙚 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣, 𝙀𝙡𝙖𝙨𝙩𝙞𝙘𝙨𝙚𝙖𝙧𝙘𝙝, 𝙊𝘼𝙪𝙩𝙝2, 𝙅𝙒𝙏, 𝘼𝙒𝙎, 𝘼𝙢𝙖𝙯𝙤𝙣 𝙎3, 𝙅𝙚𝙣𝙠𝙞𝙣𝙨, 𝙎𝙚𝙣𝙙𝙂𝙧𝙞𝙙
 
-𝟐. 𝐖𝐚𝐧𝐝𝐞𝐫𝐯𝐚𝐧𝐬, 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐰𝐚𝐧𝐝𝐞𝐫𝐯𝐚𝐧𝐬.𝐜𝐨𝐦/, 𝐚 𝐯𝐚𝐧 𝐛𝐨𝐨𝐤𝐢𝐧𝐠 𝐬𝐢𝐭𝐞
+𝟐. 𝐖𝐚𝐧𝐝𝐞𝐫𝐯𝐚𝐧𝐬 𝐢𝐬 𝐚 𝐯𝐚𝐧 𝐛𝐨𝐨𝐤𝐢𝐧𝐠 𝐬𝐢𝐭𝐞 - https://www.wandervans.com/
 
 - Developed an interactive booking system using Angular, integrating a calendar UI for easy date selection and a detailed van listing interface.
 - Implemented a secure user authentication system with JWT, coupled with comprehensive profile management features.
@@ -277,7 +279,7 @@ This experience demonstrates my ability to integrate cutting-edge technologies i
 
 ===== 𝐎𝐝𝐨𝐨 =====
 
-𝟏. 𝐓𝐚𝐥𝐤𝐂𝐨𝐧𝐝𝐨 (𝐡𝐭𝐭𝐩://𝐭𝐚𝐥𝐤𝐜𝐨𝐧𝐝𝐨.𝐜𝐨𝐦) - A real estate marketplace similar to Redfin or Zillow.
+𝟏. 𝐓𝐚𝐥𝐤𝐂𝐨𝐧𝐝𝐨 - A real estate marketplace similar to Redfin or Zillow - http://talkcondo.com
 - Led the development of a comprehensive data aggregation platform for new condominium developments.
 - Integrated Odoo ERP for enhanced data management, automating the process of daily updates and information imports.
 - Designed a user-friendly interface with custom map views, utilizing the Google Maps API for accurate geolocation.
@@ -285,7 +287,7 @@ This experience demonstrates my ability to integrate cutting-edge technologies i
 - Managed subscription payments and user authentication, incorporating Stripe and Auth0.
 - 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠: 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝙎𝙌𝙇, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘿𝙟𝙖𝙣𝙜𝙤, 𝙍𝙚𝙖𝙘𝙩, 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙂𝙤𝙤𝙜𝙡𝙚 𝙈𝙖𝙥𝙨 𝘼𝙋𝙄, 𝙊𝙙𝙤𝙤 𝙀𝙍𝙋, 𝙂𝙚𝙤𝙨𝙥𝙖𝙩𝙞𝙖𝙡 𝘿𝙖𝙩𝙖 𝙎𝙮𝙨𝙩𝙚𝙢𝙨, 𝙂𝙤𝙤𝙜𝙡𝙚 𝙎𝙝𝙚𝙚𝙩𝙨 𝘼𝙋𝙄, 𝘼𝙥𝙖𝙘𝙝𝙚 𝙋𝘿𝙁𝘽𝙤𝙭, 𝙋𝙄𝙇, 𝙎𝙩𝙧𝙞𝙥𝙚, 𝘼𝙪𝙩𝙝0, 𝘼𝙒𝙎.
 
-𝟐. 𝐒𝐡𝐚𝐫𝐞𝐟𝐫𝐨𝐧𝐭 (𝐡𝐭𝐭𝐩𝐬://𝐭𝐡𝐞𝐬𝐡𝐚𝐫𝐞𝐟𝐫𝐨𝐧𝐭.𝐜𝐨𝐦/) - A co-retailing platform.
+𝟐. 𝐒𝐡𝐚𝐫𝐞𝐟𝐫𝐨𝐧𝐭 - A co-retailing platform - https://thesharefront.com/ 
 - Played a key role in the online platform's launch, focusing on user flow to optimize conversion rates.
 - Utilized Odoo ERP for efficient backend process alignment and member input integration.
 - Enhanced customer relationship management and marketing strategies by integrating HubSpot CRM.
