@@ -1,6 +1,7 @@
 Corey Campbell, a𝐬 𝐀 𝐓𝐨𝐩-𝐧𝐨𝐭𝐜𝐡 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with over ten years, my expertise spans both front-end and back-end development, offering a comprehensive range of skills in creating web and mobile applications. I create complete web and mobile applications using modern frameworks like Python, React, React Native, Angular, and Node.js. My journey in tech now embraces the transformative 𝐩𝐨𝐰𝐞𝐫 𝐨𝐟 𝐀𝐈, seeking to integrate 𝐀𝐈 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 into solutions that are not only innovative but also accessible and user-centric.
 
 𝐌𝐲 𝐜𝐨𝐫𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
+- Web OS, Smart TV, TV Set, (LG, Roku, Fire, ...) App
 - Python, Django, Flask, Django Rest Framework, FastAPI, SQLAlchemy, Celery
 - JavaScript, TypeScript, React.js, React Native, Next.js, Redux, MobX, Axios, Expo, Node.js, Express.js, NestJS
 - Angular, RxJS, NgRx, Angular
@@ -20,6 +21,57 @@ Corey Campbell, a𝐬 𝐀 𝐓𝐨𝐩-𝐧𝐨𝐭𝐜𝐡 𝐒𝐨𝐟𝐭�
 
 𝐏𝐚𝐬𝐭 𝐖𝐨𝐫𝐤𝐬
 
+===== TV =====
+
+𝟏. 𝐆𝐇𝐎𝐒𝐓𝐟𝐥𝐢𝐱
+
+https://in.lgappstv.com/main/tvapp/detail?appId=1199149
+
+- Designed the overall architecture of the LG TV app, ensuring it leverages the unique capabilities of LG’s webOS platform for optimal performance and user experience
+- Created a responsive and intuitive user interface tailored for the LG TV environment, focusing on ease of navigation and accessibility for all users
+- Worked on integrating diverse content sources into the app, ensuring seamless content streaming and availability.
+- Utilized the LG webOS SDK for developing application features, such as content playback, user authentication, and settings management, making full use of the platform’s capabilities
+- Customized the application to cater specifically to LG Smart TVs’ hardware and software nuances, ensuring compatibility and smooth operation across different models
+- Implemented performance optimization techniques to ensure the app runs smoothly, minimizing loading times and enhancing the overall reviewing experience.
+- Integrated multi-language support to cater to a global audience, enhancing the app’s accessibility and user friendliness
+
+𝟐. 𝐓𝐚𝐥𝐤𝐢𝐞𝐬 𝐓𝐕 
+
+https://in.lgappstv.com/main/tvapp/detail?appId=1046679&headerName=Entertainment
+
+- Developed intuitive and user-friendly interfaces for Tizen and webOS platforms, ensuring ease of navigation and a seamless viewing experience
+- Integrated streaming capabilities to allow users to watch Movies, TV shows, Web series, and Yakshagana directly on their SmartTVs, ensuring high-quality playback.
+- Implemented support for multiple regional languages
+- Ensured the app was fully optimized for different SmartTV models, providing a consistent and reliable user experience across the Tizena nd webOS ecosystem
+- Integrated subscription management features, allowing users to choose between Talkies Gold, Classic, and Yakshagana plans directly from their SmartTVs
+- Developed robust APIs to support the content delivery, user authentication, subscription management, and payment processing for the “Talkies” platform
+- Created APIs to manage and update the extensive catalog of Movies, Dramas, TV shows, Web series, and Yakshagana, including features for minimum 2 new uploads every week.
+- Enabled seamless streaming on Phones, Tablets, and TVs without additional charges, supported by the backend infrastructure.
+
+𝟑. 𝐅𝐢𝐥𝐦𝐁𝐨𝐱+
+
+https://in.lgappstv.com/main/tvapp/detail?appId=1074364&headerName=Entertainment
+
+- Architected the LG TV app, ensuring a robust and scalable foundation that supports streaming of HD quality content across various genres
+- Designed an intuitive and engaging user interface that enhances user navigation through the wide range of FilmBox content, optimizing for the unique LG Smart TV platform experience
+- Implemented seamless integration for live streaming of thematic channels such as FilmBox Arthouse, Gametoon, FightBox, and others, ensuring 24/7 availability on FilmBox
+- Developed a personalized recommendation system that suggests content based on users’ viewing habits and preferred genres, enhancing content discoverability
+- Enabled offline viewing functionality, allowing users to download their favorite content and watch it on-the-go without the need for an internet connection
+- Integrated an ad-free streaming service, providing users with uninterrupted viewing of hundreds of hours of content
+
+𝟒. 𝐑𝐞𝐃𝐢𝐬𝐜𝐨𝐯𝐞𝐫 𝐓𝐞𝐥𝐞𝐯𝐢𝐬𝐢𝐨𝐧
+
+https://www.rediscovertv.com/home
+
+- Designed a user-friendly interface to facilitate easy navigation and interaction
+- Integrated content categorization and search capabilities for efficient content discovery
+- Developed personalized user profiles for customized content experience
+- Enabled offline viewing options for enhanced convenience
+- Instituted subscription management features for user flexibility in content access
+- Incorporated analytics and insights for informed decision-making and strategy optimization
+- Explored content monetization options to diversify revenue streams
+- Ensured seamless integration with third-party services, enriching the content ecosystem and user experience
+  
 ===== 𝐀𝐈 =====
 
 𝟏. 𝐃𝐨𝐨𝐳𝐨𝐨 is a cutting-edge AI-powered graphic designing tool that uses image generation and natural language understanding to automate the laborious process of designing visual content such as graphics, ads, videos, and banners. The major challenge in developing Doozoo was to automate the entire design process, from requirement gathering to design creation, while maintaining simplicity and flexibility - https://doozoo.live/
